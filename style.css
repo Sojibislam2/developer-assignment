@@ -17,6 +17,12 @@ section{
 .half-width img{
 width: 80%;
 }
+.text-align{
+    text-align: justify;
+}
+#bg-image{
+    background-image: url(images/bg-imsge.jpg);
+}
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
