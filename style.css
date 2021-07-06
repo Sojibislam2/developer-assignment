@@ -22,6 +22,7 @@ width: 80%;
 }
 #bg-image{
     background-image: url(images/bg-imsge.jpg);
+    margin-bottom: 100px;
 }
 .link-button{
     text-decoration: none;
@@ -30,4 +31,30 @@ width: 80%;
     border-radius: 10px;
     color: white;
     font-weight: 700;
+}
+.half-size{
+    text-align: justify;
+    width: 30%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 1%;
+    border-radius: 5%;
+}
+.sojib-ahmed{
+    display: flex;
+}
+#para-graph{
+    text-align: center;
+}
+
+.food-color{
+    color: orange;
+}
+.text-item{
+    text-align: center;
+    background-color: teal;
+}
+footer p{
+    color: white;
 }
